@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mwana"]
+	path = mwana
+	url = https://github.com/mphimo/mwana
+	registered = false
 [submodule "wowi"]
 	path = wowi
 	url = https://github.com/tiwowi/wowi
